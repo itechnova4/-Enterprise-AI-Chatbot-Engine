@@ -6,4 +6,4 @@ A premium conversational AI framework designed for enterprise customer support, 
 MIT License
 
 ## Version
-21.0
+v2.0
